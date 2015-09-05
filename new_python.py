@@ -7,4 +7,5 @@ Type "copyright", "credits" or "license()" for more information.
 some valuesome value
 >>> print my_var
 some value
->>> 
+>>>
+
